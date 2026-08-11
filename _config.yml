@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Alessandro Lambertini"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am an Associate Professor in Geomatics Engineering. My research integrates multi-sensor geospatial data, 3D modelling, GIS, remote sensing and Digital Twins for monitoring natural and built environments, marine habitats and cultural heritage."
   location         : "Italy"
   employer         : "University of Bologna"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
