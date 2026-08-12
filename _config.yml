@@ -23,7 +23,7 @@ repository               : "alessandrolambertini/alessandrolambertini.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Alessandro Lambertini"
   pronouns         : # example: "she/her"  
   bio              : "I am an Associate Professor in Geomatics Engineering. My research integrates multi-sensor geospatial data, 3D modelling, GIS, remote sensing and Digital Twins for monitoring natural and built environments, marine habitats and cultural heritage."
